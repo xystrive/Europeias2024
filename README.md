@@ -4,7 +4,7 @@
 
 >***Nenhuma desta informação tem como objetivo servir como propaganda para algum partido ou partidos políticos ou influenciar de forma intencional o voto.***
 
-> ***Qualquer informação incorreta, é agradecido a comunicação da mesma e as alterações necessárias serão feitas***
+***Qualquer informação incorreta, é agradecido a comunicação da mesma e as alterações necessárias serão feitas***
 
 ### O que são as Eleições Europeias?
 ---
@@ -103,8 +103,13 @@ A tabela seguinte contém informação sobre os debates destas eleições, na co
 ### Fontes
 ---
 https://european-union.europa.eu
+
 https://eurocid.mne.gov.pt/
+
 https://www.europarl.europa.eu
+
 https://www.cne.pt
+
 https://rtp.pt/
+
 https://tvi.iol.pt/
