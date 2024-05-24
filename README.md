@@ -8,7 +8,7 @@
 
 ### O que são as Eleições Europeias?
 ---
-As Eleições Europeias elegem membros para o Parlamento Europeu que tem as seguintes competências:
+As Eleições Europeias elegem membros para o Parlamento Europeu, este tem as seguintes competências:
 - Debater legislação. Aprovar, rejeitar ou alterar (excepto alguns casos) leis.
 - Supervisionar instituições da União Europeia e orçamentos.
 - Estabelecer um orçamento Europeu (juntamente com o Conselho da União Europeia)
