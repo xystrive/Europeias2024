@@ -1,21 +1,21 @@
 ### ⚠️ Aviso
 
-**Este documento tem como propósito compilar informação relevante sobre as eleições Europeias em Portugal de 2024 e apresentá-la de forma a que sirva como auxílio informativo.**
+>  **Este documento tem como propósito compilar informação relevante sobre as eleições Europeias em Portugal de 2024 e apresentá-la de forma a que sirva como auxílio informativo.**
 
-***Nenhuma desta informação tem como objetivo servir como propaganda para algum partido ou partidos políticos ou influenciar de forma intencional o voto.***
+>***Nenhuma desta informação tem como objetivo servir como propaganda para algum partido ou partidos políticos ou influenciar de forma intencional o voto.***
 
-***Qualquer informação incorreta, é agradecido a comunicação da mesma e as alterações necessárias serão feitas***
+> ***Qualquer informação incorreta, é agradecido a comunicação da mesma e as alterações necessárias serão feitas***
 
-### O que são as eleições europeias?
+### O que são as Eleições Europeias?
 ---
-As eleições europeias elegem membros para o Parlamento Europeu que tem as seguintes competências:
+As Eleições Europeias elegem membros para o Parlamento Europeu que tem as seguintes competências:
 - Debater legislação. Aprovar, rejeitar ou alterar (excepto alguns casos) leis.
 - Supervisionar instituições da União Europeia e orçamentos.
 - Estabelecer um orçamento Europeu (juntamente com o Conselho da União Europeia)
 
-**O Parlamento Europeu não tem o poder de iniciar legislação diretamente, a Comissão Europeia é a única instituição da União Europeia que tem esse poder, contudo o Parlamento pode solicitar propostas legislativas à Comissão**
+**O Parlamento Europeu não tem o poder de iniciar legislação diretamente, a Comissão Europeia é a única instituição da União Europeia que tem esse poder, contudo o Parlamento pode solicitar propostas legislativas à Comissão.**
 
-Os membros do Parlamento fazem parte de um grupo político ou podem ser independentes e sentam-se de acordo com essa filiação.
+Os membros do Parlamento fazem parte de um **grupo político** ou podem ser **independentes** e sentam-se de acordo com essa filiação.
 
 **Grupos políticos atualmente presentes no Parlamento**
 - [Grupo do Partido Popular Europeu (Democratas-Cristãos)](https://www.eppgroup.eu/) 
@@ -81,9 +81,30 @@ Sendo membro da União Europeia e de acordo com o número de população, Portug
 | Partido Trabalhista Português        | PTP                  | ![ptp.png](Símbolos/ptp.png)                                                                               | Não       | Independente                                                                                                                                                                                                   | [José Manuel Coelho](https://pt.wikipedia.org/wiki/Jos%C3%A9_Manuel_Coelho)                 |
 | Movimento Alternativa Socialista     | MAS                  | ![mas.png](Símbolos/mas.png)                                                                               | Não       | Independente                                                                                                                                                                                                   | [Gil Garcia](https://pt.wikipedia.org/wiki/Gil_Garcia)                                      |
 
+### Boletim de voto (espécime)
+---
+![Boletim de Voto](2024_pe_boletim_de_voto_especime.pdf)
+
+### Debates Políticos
+---
+A tabela seguinte contém informação sobre os debates destas eleições, na coluna **Debate** encontra-se os links para os respetivos debates.
+
+| Data       | Organizador | Moderador                                                      | Participantes                                                                                                                                                                                                                                                                                                                    | Debate                                                                                                                                                                                     |
+| ---------- | ----------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 13 de Maio | SIC         | [Clara de Sousa](https://pt.wikipedia.org/wiki/Clara_de_Sousa) | [Marta Temido](https://pt.wikipedia.org/wiki/Marta_Temido) - PS<br>[Sebastião Bugalho](https://pt.wikipedia.org/wiki/Sebasti%C3%A3o_Bugalho) - AD<br>Francisco Paupério - L<br>[João Cotrim de Figueiredo](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Cotrim_de_Figueiredo) - IL                                                    | [RTP Play](https://www.rtp.pt/play/p13428/e769037/eleicoes-europeias-debates-sicsic-noticias)                                                                                              |
+| 15 de Maio | RTP1        | [Carlos Daniel](https://pt.wikipedia.org/wiki/Carlos_Daniel)   | [Catarina Martins](https://pt.wikipedia.org/wiki/Catarina_Martins) - BE<br>Pedro Fidalgo Marques - PAN<br>Francisco Paupério - L<br>[António Tânger Corrêa](https://pt.wikipedia.org/wiki/Ant%C3%B3nio_T%C3%A2nger_Corr%C3%AAa) - CH                                                                                             | [RTP Play](https://www.rtp.pt/play/p13429/e769643/eleicoes-europeias-debates-rtp)                                                                                                          |
+| 17 de Maio | TVI         | Sara Pinto                                                     | [Catarina Martins](https://pt.wikipedia.org/wiki/Catarina_Martins) - BE<br>[João Oliveira](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Oliveira) - CDU<br>Francisco Paupério - L<br>[João Cotrim de Figueiredo](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Cotrim_de_Figueiredo) - IL                                                   | [TVI](https://tvi.iol.pt/noticias/videos/cotrim-de-figueiredo-catarina-martins-francisco-pauperio-e-joao-oliveira-o-terceiro-debate-para-as-europeias-na-integra/6647c95f0cf2a41c2ed7a0ac) |
+| 20 de Maio | SIC         | [Clara de Sousa](https://pt.wikipedia.org/wiki/Clara_de_Sousa) | [João Oliveira](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Oliveira) - CDU<br>Pedro Fidalgo Marques - PAN<br>[António Tânger Corrêa](https://pt.wikipedia.org/wiki/Ant%C3%B3nio_T%C3%A2nger_Corr%C3%AAa) - CH<br>[João Cotrim de Figueiredo](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Cotrim_de_Figueiredo) - IL                     | [RTP Play](https://www.rtp.pt/play/p13428/e770701/eleicoes-europeias-debates-sicsic-noticias)                                                                                              |
+| 21 de Maio | RTP1        | [Carlos Daniel](https://pt.wikipedia.org/wiki/Carlos_Daniel)   | [Marta Temido](https://pt.wikipedia.org/wiki/Marta_Temido) - PS<br>[Sebastião Bugalho](https://pt.wikipedia.org/wiki/Sebasti%C3%A3o_Bugalho) - AD<br>[João Oliveira](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Oliveira) - CDU<br>[António Tânger Corrêa](https://pt.wikipedia.org/wiki/Ant%C3%B3nio_T%C3%A2nger_Corr%C3%AAa) - CH | [RTP Play](https://www.rtp.pt/play/p13429/e771004/eleicoes-europeias-debates-rtp)                                                                                                          |
+| 24 de Maio | TVI         | N/A                                                            | Convidados - PS, AD, BE, PAN                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                            |
+| 28 de Maio | RTP1        | N/A                                                            | Convidados - PS AD, BE, CDU, PAN, L, CH, IL                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                            |
+| 30 de Maio | RTP1        | N/A                                                            | Convidados - NC, E, ADN, PTP, MAS, RIR, MPT, VP, ND                                                                                                                                                                                                                                                                              |                                                                                                                                                                                            |
+
 ### Fontes
 ---
 https://european-union.europa.eu
 https://eurocid.mne.gov.pt/
 https://www.europarl.europa.eu
 https://www.cne.pt
+https://rtp.pt/
+https://tvi.iol.pt/
