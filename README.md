@@ -4,7 +4,7 @@
 
 >***Nenhuma desta informação tem como objetivo servir como propaganda para algum partido ou partidos políticos ou influenciar de forma intencional o voto.***
 
-***Qualquer informação incorreta, é agradecido a comunicação da mesma e as alterações necessárias serão feitas***
+> ***Qualquer informação incorreta, é agradecido a comunicação da mesma e as alterações necessárias serão feitas***
 
 ### O que são as Eleições Europeias?
 ---
