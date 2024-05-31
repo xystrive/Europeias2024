@@ -54,7 +54,7 @@ O Parlamento Europeu é também constituído por diferentes Comissões Parlament
 - [FEMM](https://www.europarl.europa.eu/committees/pt/femm "Comissão dos Direitos das Mulheres e da Igualdade dos Géneros") [Direitos das Mulheres e Igualdade dos Géneros](https://www.europarl.europa.eu/committees/pt/femm)
 - [PETI](https://www.europarl.europa.eu/committees/pt/peti "Comissão das Petições") [Petições](https://www.europarl.europa.eu/committees/pt/peti)
 
-### Como Portugal se enquadra nestas eleições?
+### Como é que Portugal se enquadra nestas eleições?
 ---
 Sendo membro da União Europeia e de acordo com o número de população, Portugal tem disponível 21 lugares no Parlamento Europeu preenchidos por deputados de partidos políticos candidatos a estas eleições.
 
